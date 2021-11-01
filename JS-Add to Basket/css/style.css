@@ -1,0 +1,29 @@
+#banner {
+  position: relative;
+  margin-top: 50px;
+}
+
+#banner .bag-item {
+  position: absolute;
+  right: 30px;
+  top: 30px;
+}
+
+#banner .bag-item i {
+  font-size: 30px;
+  color: blueviolet;
+}
+
+#banner .bag-item span {
+  position: absolute;
+  top: -15px;
+  border: 1px solid;
+  background: #c03939;
+  color: white;
+  border-radius: 50%;
+  width: 20px;
+  height: 20px;
+  text-align: center;
+  line-height: 1;
+}
+/*# sourceMappingURL=style.css.map */
